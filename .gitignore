@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+out/
+out_*/
+experiments_log.csv
+sites.csv
+smp.csv
+COMPLIANCE.md
+baseline.py
+train
+test

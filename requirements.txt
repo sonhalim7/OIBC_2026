@@ -1,0 +1,6 @@
+# 최종 제출 환경(environment.txt, Python 3.11.4)과 같은 버전으로 고정
+numpy==2.4.6
+pandas==3.0.6
+pyarrow==26.0.0
+lightgbm==4.6.0
+scikit-learn==1.9.1
